@@ -32,4 +32,6 @@ jobs:
         run: chmod +x * && chmod +x LEGEND
 
       - name: Run Application
-        run: python LSRVIPDDOS.py
+        run: python LSR.py
+        
+      .py
